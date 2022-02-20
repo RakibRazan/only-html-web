@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Rakib Razan</title>
+	<link rel="icon" type="images/x-icon" src="images/favicon.ico"></link>
 </head>
 <body>
     <header>
@@ -20,7 +21,17 @@
     </header>
 	<img src="images/2.png" alt="body images">
 	<h1>I'm Rakib Razan</h1>
-	<p>I have over 3-year experience in WordPress Design and Development. As a freelancer Completed 40+ Projects of 23 country’s 62+ client’s at various marketplaces since 2018. Our designs are clean, easier to use that will help you to gain more customers. If you looking for a quality, then don’t hesitate to contact us. We will feel happy to assist you. Expertise: ========== ✅WordPress Expert ✅WooCommerce / eCommerce Expert ✅Elementor and Elemetor Pro expert ✅Landing Page expert ✅Email Marketing Expert ✅On Page SEO ✅Website Security and Speed Optimazion ✅WordPress Blog WEbsite</p>
-	
+	<p>I have over 3-year experience in WordPress Design and Development. As a freelancer Completed 40+ Projects of 23 country’s 62+ client’s at various marketplaces since 2018. Our designs are clean, easier to use that will help you to gain more customers. If you looking for a quality, then don’t hesitate to contact us. We will feel happy to assist you.</p>
+	<h2> My specialities are:</h2>
+	<ul>
+	<li>WordPress Expert</li>
+	<li>WooCommerce / eCommerce Expert</li>
+	<li>Elementor and Elemetor Pro expert</li>
+	<li>Landing Page expert </li>
+	<li>Email Marketing Expert</li>
+	<li>On Page SEO</li>
+	<li>Website Security and Speed Optimazion</li>
+	<li>WordPress Blog WEbsite</li>
+	</ul>
 </body>
 </html>
